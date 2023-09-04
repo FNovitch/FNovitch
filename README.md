@@ -1,10 +1,14 @@
-## Oii, me chamo Frank Novitch
+## Olá, me chamo Frank Novitch
 
 - 🌱 Sou estudante de Graduação em Engenharia de Software.
 - 🌱 Sou estudante em Técnico em Desenvolvimento de Sistemas.
 - 🔭 Publico aqui pequenos projetos e exercícios que faço no meu dia a dia, a fim de acompanhar meu progresso.
 
-(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 ##
 
