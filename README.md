@@ -1,8 +1,8 @@
 ## Olá, me chamo Frank Novitch
 
-- 🌱 Sou estudante de Graduação em Engenharia de Software.
-- 🌱 Sou estudante em Técnico em Desenvolvimento de Sistemas.
-- 🔭 Publico aqui pequenos projetos e exercícios que faço no meu dia a dia, a fim de acompanhar meu progresso.
+- 📖 Sou estudante de Graduação em Engenharia de Software.
+- 💻 Sou estudante em Técnico em Desenvolvimento de Sistemas.
+- 📥 Publico aqui pequenos projetos e exercícios que faço no meu dia a dia, a fim de acompanhar meu progresso.
 
 <p align="center">
   <a href="https://skillicons.dev">
