@@ -1,6 +1,6 @@
 ## Olá, me chamo Frank Novitch
 
-- 📖 Estudante de Graduação em Engenharia de Software.
+- 📖 Estudante de Engenharia de Software.
 - 💻 Estudante em Técnico em Desenvolvimento de Sistemas.
 - 📥 Publico aqui pequenos projetos e exercícios que faço no meu dia a dia, a fim de acompanhar meu progresso.
 
