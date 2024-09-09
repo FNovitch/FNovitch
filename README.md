@@ -1,12 +1,12 @@
 ## Olá, me chamo Frank Novitch
 
 - 📖 Estudante de Engenharia de Software.
-- 💻 Estudante em Técnico em Desenvolvimento de Sistemas.
+- 💻 Formado em Técnico em Desenvolvimento de Sistemas.
 - 📥 Publico aqui pequenos projetos e exercícios que faço no meu dia a dia, a fim de acompanhar meu progresso.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,figma,git" />
   </a>
 </p>
 
