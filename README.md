@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=28&color=946552&center=true&vCenter=true&&width=900&lines=Olá,+seja+bem+vindo(a)+ao+meu+perfil+do+GitHub!;Eu+me+chamo+Frank+Novitch!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=30&color=946552&center=true&vCenter=true&&width=900&lines=Olá,+seja+bem+vindo(a)+ao+meu+perfil+do+GitHub!;Eu+me+chamo+Frank+Novitch!)](https://git.io/typing-svg)
 
 
 <h3>:mortar_board: Estou Cursando Engenharia de Software. <h3>
