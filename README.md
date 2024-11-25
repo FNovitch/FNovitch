@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=30&color=946552&center=true&vCenter=true&&width=900&lines=Olá,+seja+bem+vindo(a)+ao+meu+perfil+do+GitHub!;Eu+me+chamo+Frank+Novitch!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&weight=600&size=30&color=946552&center=true&vCenter=true&&width=900&lines=Olá,+seja+bem+vindo(a)+ao+meu+perfil+do+GitHub!;Eu+me+chamo+Frank+Novitch!)](https://git.io/typing-svg)
 
 
-<h3>:mortar_board: Estou Cursando Engenharia de Software. <h3>
-<h3>💻  Formação Técnica em Desenvolvimento de Sistemas.</h3>
-<h3>📥  Publico aqui meus projetos com o propósito de acompanhar meu aprendizado e evolução.</h3>
+<p>:mortar_board:  Estou Cursando Engenharia de Software. <p>
+<p>💻   Técnico em Desenvolvimento de Sistemas e em Qualidade.<p>
+<p>📥   Publico aqui meus projetos com o propósito de acompanhar meu aprendizado e evolução como desenvolvedor.</p>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
