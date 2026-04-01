@@ -1,11 +1,13 @@
-Sobre mim
+<div align="center">
+  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
+</div>
 
+## 👋 Sobre mim
 
-- :mortar_board: Sou formado em Engenharia de Software.
-- :mortar_board: Técnico em Desenvolvimento de Sistemas e em Qualidade.
-- ⚡ Apaixonado por Tecnologia, Software, Hardware e Inteligência artificial.
-- 📥 Publico aqui meus projetos com o propósito de acompanhar meu aprendizado e evolução como desenvolvedor.
-
+🎓 Engenheiro de Software  
+🛠️ Técnico em Desenvolvimento de Sistemas e Qualidade  
+⚡ Apaixonado por Tecnologia e Inteligência Artificial  
+🚀 Em constante evolução como desenvolvedor
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
